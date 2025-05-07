@@ -1,5 +1,5 @@
 <template>
-  <SignupPage />
+  <ReportList />
   <SideNavBar>
     <div class="flex flex-col w-full">
       <TopNavBar />
@@ -82,4 +82,5 @@ import UserProfile from './components/UserProfile.vue'
 import SignupPage from './components/SignupPage.vue'
 import LoginPage from './components/LoginPage.vue'
 import ForgotPasswordPage from './components/ForgotPassword.vue'
+import ReportList from './components/ReportList.vue'
 </script>
